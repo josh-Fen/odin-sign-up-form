@@ -1,0 +1,19 @@
+/* assets
+- bg picture
+  - https://unsplash.com/@haliewestphoto : Halie West
+  - https://unsplash.com/ : Unsplash
+*/
+
+@font-face {
+    font-family: "norse";
+    src:
+        url("fonts/Norse-Bold.otf") format("otf");
+    font-weight: bold;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
